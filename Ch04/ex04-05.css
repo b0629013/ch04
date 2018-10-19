@@ -46,7 +46,62 @@ body {
 #listNew {
 	margin-right: 30px;
 	margin-left: 50px;
+	line-height: 1.5em;
+}
+.subtitle {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF6600;
+	margin-top: 0px;
+}
+.date {
+	color: #F90;
+}
+#content #contentL #listNew p {
+	padding-top: 10px;
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #000;
+}
+a {
+	color: #0C0;
+	text-decoration: none;
+}
+a:hover {
+	color: #F60;
+	text-decoration: underline;
 }
 
+
+
+
+.aaaa {
+	line-height: 2.5em;
+}
+
+
+
 #contentMain {
+	margin-right: 55px;
+	margin-left: 13px;
+}
+.headerlogo {
+	float: left;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 48px;
+}
+.ccc {
+	font-size: 11px;
+	float: left;
+	margin-top: 100px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+}
+.dddd {
+	float: left;
+	margin-top: 65px;
+	margin-left: 100px;
 }
